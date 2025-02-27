@@ -33,7 +33,7 @@ jobs:
         run: |
           make linux
           make windows
-          make window32
+          make windows32
        
 
       - name: upload binary 
