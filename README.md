@@ -1,3 +1,5 @@
+<img src="hello_c.svg" alt="hello_c" width="120">
+
 # Example of C crosscompile
 * Starting OS Linux Debian 12
 
